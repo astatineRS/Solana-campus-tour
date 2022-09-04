@@ -1,1 +1,1 @@
-# Salona-campus-tour
+# Salona-campus-connect
