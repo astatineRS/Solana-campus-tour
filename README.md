@@ -1,1 +1,1 @@
-# Salona-campus-connect
+# Solana-campus-connect
